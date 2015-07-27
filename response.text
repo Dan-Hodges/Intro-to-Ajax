@@ -1,0 +1,7 @@
+{
+  type: "Australian Shepherd",
+  size: "Large",
+  needy: true,
+  age: 11,
+  name: "Angus"
+}
